@@ -1,65 +1,60 @@
-##🚗 Scratch Multi-Level Car Racing Game
-🎮 Game Story
+# 🚗 Scratch Multi-Level Car Racing Game
 
-Drive your race car to victory while avoiding deadly obstacles!
-You’ll face one opponent car and tricky hazards across three levels.
-Earn points to advance — and remember, 3 lives only!
+## 🎮 Game Story
+Drive your race car to victory while avoiding deadly obstacles!  
+Face off against an opponent car and navigate tricky hazards across three action-packed levels.  
+Earn points to advance — but beware, you only get **3 lives**!
 
-##🕹 Gameplay Rules
+---
 
-Lives: Start with 3 lives.
+## 🕹 Gameplay Rules
 
-You lose 1 life if you hit:
+- **Lives:** Start with 3 lives.
+- **You lose 1 life if you hit:**
+  - Open-end enemy car 🚗
+  - Rock 🪨
+  - Hole 🕳
+  - Green grass 🌱
+  - Building 🏢
+- **Lose all lives → Game Over.**
 
-Open-end enemy car 🚗
+---
 
-Rock 🪨
+## 📌 Levels
 
-Hole 🕳
+- **Level 1:** Avoid the open-end enemy car.
+- **Level 2:** Avoid rocks.
+- **Level 3:** Avoid rocks and holes.
 
-Green grass 🌱
+---
 
-Building 🏢
+## 🎯 Scoring & Progression
 
-Lose all lives → Game Over.
+- **+1 point** for every successful checkpoint/lap.
+- **20 points** → Advance to Level 2.
+- **30 points** → Advance to Level 3.
+- **50 points** → **You Win!** 🎉
 
-📌 Levels
+---
 
-Level 1 → Avoid the open-end enemy car.
+## 🎮 Controls
 
-Level 2 → Avoid rock.
+- **Up Arrow:** Move forward
+- **Down Arrow:** Brake/Reverse
+- **Left/Right Arrows:** Steer
 
-Level 3 → Avoid rock and hole.
+---
 
-##🎯 Scoring & Progression
+## 📂 How to Play on Your Computer
 
-+1 point for every successful checkpoint/lap.
+1. **Download** the `scratch.sb3` file from this repository.
+2. **Open** [Scratch](https://scratch.mit.edu/) and go to:  
+   `File → Load from your computer`
+3. **Click** the green flag to start playing!
 
-20 points → Move to Level 2.
+---
 
-30 points → Move to Level 3.
-
-50 points → You Win! 🎉
-
-##🎮 Controls
-
-Up Arrow → Move forward
-
-Down Arrow → Brake/Reverse
-
-Left/Right Arrows → Steer
-
-##📂 How to Play on Your Computer
-
-Download the scratch.sb3 file from this repository.
-
-Open Scratch → File → Load from your computer.
-
-Click the green flag to start.
-
+Enjoy racing and good luck!
 
 
 
-
-##📸 Screenshot
-<img width="1916" height="1010" alt="Screenshot 2025-08-14 193522" src="https://github.com/user-attachments/assets/2bedb5b8-eeff-413d-b1c6-5e252ec5b251" />
