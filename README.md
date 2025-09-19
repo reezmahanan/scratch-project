@@ -1,11 +1,11 @@
-🚗 Scratch Multi-Level Car Racing Game
+##🚗 Scratch Multi-Level Car Racing Game
 🎮 Game Story
 
 Drive your race car to victory while avoiding deadly obstacles!
 You’ll face one opponent car and tricky hazards across three levels.
 Earn points to advance — and remember, 3 lives only!
 
-🕹 Gameplay Rules
+##🕹 Gameplay Rules
 
 Lives: Start with 3 lives.
 
@@ -31,7 +31,7 @@ Level 2 → Avoid rock.
 
 Level 3 → Avoid rock and hole.
 
-🎯 Scoring & Progression
+##🎯 Scoring & Progression
 
 +1 point for every successful checkpoint/lap.
 
@@ -41,7 +41,7 @@ Level 3 → Avoid rock and hole.
 
 50 points → You Win! 🎉
 
-🎮 Controls
+##🎮 Controls
 
 Up Arrow → Move forward
 
@@ -49,7 +49,7 @@ Down Arrow → Brake/Reverse
 
 Left/Right Arrows → Steer
 
-📂 How to Play on Your Computer
+##📂 How to Play on Your Computer
 
 Download the scratch.sb3 file from this repository.
 
@@ -61,5 +61,5 @@ Click the green flag to start.
 
 
 
-📸 Screenshot
+##📸 Screenshot
 <img width="1916" height="1010" alt="Screenshot 2025-08-14 193522" src="https://github.com/user-attachments/assets/2bedb5b8-eeff-413d-b1c6-5e252ec5b251" />
